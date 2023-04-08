@@ -1,0 +1,12 @@
+Le système est écrit en utilisant Python, Django, SQLite, HTML, JavaScript (jQuery et Ajax) et Bootstrap. 
+Le système gère plusieurs utilisateurs, affiche tous les utilisateurs dans une boîte de chat et une boîte de conversation. La conversation active dispose d'une fonctionnalité qui charge automatiquement le nouveau chat ou message. 
+Le système dispose également d'une connexion et d'une inscription.
+login:dans login on récupère les données dans databases
+Régistration: sauvegarder les données necessaires pour l'authentification
+Page d'acceuil: affiche une simple page en css et html pour compléments.
+Message: récupèrent les utilisateurs durant l'authentifications et affiche les utilisateurs disponible par sockets. en cliquant 
+sur l'utilisateurs on peut envoyers des message
+Conversation box: c'est la page pour la conversation
+Mettre à jour: c'est de mettre à jour automatique la page pour que les messages envoyer soit intéractif
+Profile Page: c'est de savoir les utilisateurs informations
+Système de deconnexion
